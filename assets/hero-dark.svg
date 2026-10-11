@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" width="1400" height="420" role="img" aria-label="Banner de Felipe Gomes Carvalho, desenvolvedor back-end Java e Spring Boot">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071421"/><stop offset=".55" stop-color="#0a233b"/><stop offset="1" stop-color="#10193d"/></linearGradient>
+ <radialGradient id="light"><stop offset="0" stop-color="#1aaadc" stop-opacity=".22"/><stop offset="1" stop-color="#1aaadc" stop-opacity="0"/></radialGradient>
+ <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#14b8a6"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+ <clipPath id="round"><rect x="0" y="0" width="1400" height="420" rx="26"/></clipPath>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#27445e" stroke-width="1" opacity=".3"/></pattern>
+ <filter id="shadow"><feDropShadow dx="0" dy="13" stdDeviation="22" flood-color="#000" flood-opacity=".16"/></filter>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1400" height="420" fill="url(#bg)"/>
+ <rect width="1400" height="420" fill="url(#grid)" opacity=".52"/>
+ <ellipse cx="1100" cy="150" rx="530" ry="350" fill="url(#light)"/>
+ <circle cx="1230" cy="210" r="228" fill="none" stroke="#4da6e7" stroke-width="1.5" opacity=".21"/>
+ <circle cx="1230" cy="210" r="292" fill="none" stroke="#3cc6bf" stroke-width="1.5" opacity=".16"/>
+ <circle cx="1268" cy="-14" r="6" fill="#5eead4" opacity=".8"/>
+ <circle cx="950" cy="132" r="4" fill="#93c5fd" opacity=".8"/>
+ <rect x="72" y="63" width="8" height="25" rx="4" fill="url(#accent)"/>
+ <text x="97" y="82" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#b5cee6">SOFTWARE ENGINEERING / PORTFÓLIO</text>
+ <text x="72" y="170" font-family="DejaVu Sans, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="-2" fill="#f8fafc">Felipe Gomes</text>
+ <text x="74" y="220" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="-1" fill="#5eead4">BACK-END DEVELOPER</text>
+ <text x="74" y="265" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#b5cee6">Java  /  Spring Boot  /  REST APIs  /  PostgreSQL</text>
+ <rect x="72" y="315" rx="17" width="405" height="40" fill="#0b1829" stroke="#1a4162" stroke-width="1.2"/>
+ <circle cx="94" cy="335" r="6" fill="#2dd4bf"/>
+ <text x="110" y="340" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="600" fill="#b5cee6">Aberto a oportunidades de estágio em TI</text>
+ <g filter="url(#shadow)">
+   <rect x="844" y="79" width="481" height="275" rx="19" fill="#0b1829" stroke="#3b5d7a" stroke-width="1.6"/>
+   <path d="M844 123h481" stroke="#3b5d7a" opacity=".8"/>
+   <circle cx="872" cy="101" r="6" fill="#ef6c77"/>
+   <circle cx="894" cy="101" r="6" fill="#eebc58"/>
+   <circle cx="916" cy="101" r="6" fill="#47ba92"/>
+   <text x="945" y="107" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#7996b3">Developer.java</text>
+   <text x="872" y="156" font-family="DejaVu Sans Mono, monospace" font-size="17" fill="#d8b4fe">public class</text>
+   <text x="1012" y="156" font-family="DejaVu Sans Mono, monospace" font-size="17" fill="#f8fafc">Developer {</text>
+   <text x="900" y="195" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#93c5fd">String</text>
+   <text x="975" y="195" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#f8fafc">stack =</text>
+   <text x="1060" y="195" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#5eead4">"Java";</text>
+   <text x="900" y="232" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#93c5fd">String</text>
+   <text x="975" y="232" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#f8fafc">focus =</text>
+   <text x="1060" y="232" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#5eead4">"APIs REST";</text>
+   <text x="900" y="269" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#93c5fd">boolean</text>
+   <text x="985" y="269" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#f8fafc">learning =</text>
+   <text x="1110" y="269" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#d8b4fe">true;</text>
+   <text x="872" y="309" font-family="DejaVu Sans Mono, monospace" font-size="18" fill="#f8fafc">}</text>
+  </g>
+</g>
+</svg>
